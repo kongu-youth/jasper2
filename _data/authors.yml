@@ -74,3 +74,27 @@ martin:
   facebook: False
   twitter: False
   cover: False
+
+mughil:
+  username: mughil
+  name: Mughil Pari
+  location: Washington, D.C.
+  url_full: False
+  url: False
+  bio: Master's graduate of Data Science from Columbia, 
+  picture: assets/images/mughil.jpg
+  facebook: False
+  twitter: False
+  cover: False
+
+kya:
+  username: kya
+  name: Kongu Youth of America
+  location: Nationwide
+  url_full: False
+  url: False
+  bio: A national community of kongu youth ages 18-30
+  picture: assets/images/logo-light.jpeg
+  facebook: False
+  twitter: False
+  cover: False
