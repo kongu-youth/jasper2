@@ -1,11 +1,11 @@
-## Jasper2
+## Kongu Youth of America Website
 
 [![Build Status](https://github.com/jekyllt/jasper2/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/jasper2/actions/workflows/jekyll_build.yml)
 [![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper2)
 [![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper2)
 
 ## Intro
-This repository holds all the code necessary to build the Kongu Youth of America website. We use the Ghost theme called Jasper2, which has been ported to Github pages by the contributors of the repository this was forked from. The website is published at [konguyouth.org](konguyouth.org).
+This repository holds all the code necessary to build the Kongu Youth of America website. We use the Ghost theme called **Jasper2**, which has been ported to Github pages by the contributors of the repository this was forked from. The website is published at [konguyouth.org](konguyouth.org).
 
 ## Thanks
 
