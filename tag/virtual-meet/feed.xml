@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/virtual-meet/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2021-10-24T01:13:24+00:00</updated>
+  <id>/tag/virtual-meet/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Kongu Youth of America | </title>
+  
+
+  
+    <subtitle>An international community of Kongu youth individuals aged 18-30 across the US and overseas</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">General Virtual Meet</title>
+      <link href="/general-virtual-meet" rel="alternate" type="text/html" title="General Virtual Meet" />
+      <published>2020-07-11T00:00:00+00:00</published>
+      <updated>2020-07-11T00:00:00+00:00</updated>
+      <id>/general-virtual-meet</id>
+      <content type="html" xml:base="/general-virtual-meet">&lt;p&gt;A general virtual meet that we had during the summer of 2020.&lt;/p&gt;
+
+&lt;p&gt;We had a brief call for Kongu Youth to meet and discuss what they would like to see in upcoming events.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kongu Youth of America</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="events" />
+      
+        <category term="virtual meet" />
+      
+
+      
+        <summary type="html">A general virtual meet that we had during the summer of 2020.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/culture/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2021-10-24T01:13:24+00:00</updated>
+  <id>/tag/culture/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Kongu Youth of America | </title>
+  
+
+  
+    <subtitle>An international community of Kongu youth individuals aged 18-30 across the US and overseas</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Diwali</title>
+      <link href="/diwali" rel="alternate" type="text/html" title="Diwali" />
+      <published>2020-03-14T00:00:00+00:00</published>
+      <updated>2020-03-14T00:00:00+00:00</updated>
+      <id>/diwali</id>
+      <content type="html" xml:base="/diwali">&lt;p&gt;Diwali, also known as the Festival of Lights!&lt;/p&gt;
+
+&lt;p&gt;Include more information about Diwali…&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kongu Youth of America</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="culture" />
+      
+
+      
+        <summary type="html">Diwali, also known as the Festival of Lights!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Marriage Customs</title>
+      <link href="/marriage" rel="alternate" type="text/html" title="Marriage Customs" />
+      <published>2020-01-12T00:00:00+00:00</published>
+      <updated>2020-01-12T00:00:00+00:00</updated>
+      <id>/marriage</id>
+      <content type="html" xml:base="/marriage">&lt;p&gt;Marriage!&lt;/p&gt;
+
+&lt;p&gt;Include info about marriage in South India…&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kongu Youth of America</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="culture" />
+      
+
+      
+        <summary type="html">Marriage!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

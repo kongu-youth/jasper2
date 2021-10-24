@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/virtual/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2021-10-24T01:13:24+00:00</updated>
+  <id>/tag/virtual/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Kongu Youth of America | </title>
+  
+
+  
+    <subtitle>An international community of Kongu youth individuals aged 18-30 across the US and overseas</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Happy Hour</title>
+      <link href="/happy-hour" rel="alternate" type="text/html" title="Happy Hour" />
+      <published>2021-05-20T00:00:00+00:00</published>
+      <updated>2021-05-20T00:00:00+00:00</updated>
+      <id>/happy-hour</id>
+      <content type="html" xml:base="/happy-hour">&lt;p&gt;A chance for adults of KYA to get together.&lt;/p&gt;
+
+&lt;p&gt;At the beginning of the summer of 2021, we hosted a 21+ event to garner interest among the older members of KYA. During this event we played trivia and made cocktails.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kongu Youth of America</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="events" />
+      
+        <category term="virtual" />
+      
+
+      
+        <summary type="html">A chance for adults of KYA to get together.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Poker Night</title>
+      <link href="/poker" rel="alternate" type="text/html" title="Poker Night" />
+      <published>2021-01-16T00:00:00+00:00</published>
+      <updated>2021-01-16T00:00:00+00:00</updated>
+      <id>/poker</id>
+      <content type="html" xml:base="/poker">&lt;p&gt;A small virtual meet while playing poker.&lt;/p&gt;
+
+&lt;p&gt;During this virtual meet, a few people wanted to arrange a poker night. A group of us organized a virtual poker table where we caught up with each other over cards.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Kongu Youth of America</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="events" />
+      
+        <category term="virtual" />
+      
+
+      
+        <summary type="html">A small virtual meet while playing poker.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
