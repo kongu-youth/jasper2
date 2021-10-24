@@ -3,7 +3,7 @@ layout: post
 title: DC Event Information
 cover: assets/images/dc.jpg
 date: 2019-08-15
-tags: events
+tags: [events, national]
 navigation: true
 class: post-template
 subclass: 'post'
